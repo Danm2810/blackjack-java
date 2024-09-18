@@ -2,6 +2,9 @@
 This is a much better, and refined version of my previous implementation of BlackJack in Java. This version has a whole GUI integrated into the framework, with interactable buttons and visuals in the app, to get you closer to the experience of BlackJack like in real life.
 There is a plan to make improvements or a separate upgraded version of BlackJack in the near future.
 
+![image](https://github.com/user-attachments/assets/214f78c2-69a5-4318-8984-36c8da524da9)
+
+
 ## Dev Notes
 
 ### Card Class:
